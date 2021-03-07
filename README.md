@@ -7,7 +7,7 @@
   
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Conținut</summary>
+  <summary>Content</summary>
   <ol>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/!LeetCode">LeetCode problems</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/GeeksforGeeks">GeeksforGeeks problems</a></li>
@@ -23,7 +23,7 @@
   </ol>
 </details>
 
-### Problemele sunt construite în
+### This problem is build with
 
 * [CPP && C](https://www.cplusplus.com/)
 
