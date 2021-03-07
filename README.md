@@ -1,4 +1,30 @@
+
+[![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP)](https://github.com/adyoblu/CPP/issues)
+[![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP)](https://github.com/adyoblu/CPP/stargazers)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fadyoblu%2FCPP)
+
 # CPP
   Acestea sunt problemele pe care le-am incarcat pe github dupa ce le-am rezolvat si acumulat experienta in c++.
   
-  Cartea atasata in acest folder are unele challenge-uri pe care le-am rezolvat si pus in foldere separate.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Conținut</summary>
+  <ol>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/!LeetCode">LeetCode problems</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/GeeksforGeeks">GeeksforGeeks problems</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Hackerrank">Hackerrank problems</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Hackerrank">Hackerrank problems</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">A struct problem</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">Random numbers generated problems from</a> ---> Practice problems Page 109 ---> <a href="https://github.com/adyoblu/CPP/raw/master/allain_a_jumping_into_c.pdf">allain_a_jumping_into_c.pdf</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">A struct problem</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Sortare">Sorting algorithms</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/blob/master/Concepte_OOP.cpp">OOP Concepts applied</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/blob/master/X%26O.cpp">X && 0 GAME</a> ---> Practice problems Page 121 ---> <a href="https://github.com/adyoblu/CPP/raw/master/allain_a_jumping_into_c.pdf">allain_a_jumping_into_c.pdf</a></li>
+    <li> <a href="https://github.com/adyoblu/CPP/blob/master/contacts.cpp"> 2 problems with structures </a> ---> Practice problems Page 127 ---> <a href="https://github.com/adyoblu/CPP/raw/master/allain_a_jumping_into_c.pdf">allain_a_jumping_into_c.pdf</a></li>
+  </ol>
+</details>
+
+### Problemele sunt construite în
+
+* [CPP && C](https://www.cplusplus.com/)
+
