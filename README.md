@@ -1,6 +1,4 @@
-
-[![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP)](https://github.com/adyoblu/CPP/issues)
-[![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP)](https://github.com/adyoblu/CPP/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP?style=plastic)](https://github.com/adyoblu/CPP/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP?style=plastic)](https://github.com/adyoblu/CPP/issues)
 
 # CPP
