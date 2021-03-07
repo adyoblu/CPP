@@ -16,42 +16,45 @@ Structura liniilor fisierului de iesire, in functie de tipul inregistrarii din f
 
 Inregistare de tip 1 (date personale)
 
-Camp	Pozitie	Nr. Caractere	Obs
-PersonID	1	4	
-RecordType	5	1	Este 1
-LastName	6	30	
-FirstName	36	30	
-Birthdate	66	10	Data in format, ZZ-LL-AAAA
-Gender	76	1	Sexul:
-M – masculin
-F – feminine
-CR/LF	77	2	Terminator linie
+
+| Camp | Pozitie | Nr. Caractere | Obs |
+| :--- | :---:   |    :---:      | ---:|
+| PersonID   | 1     | 4	    |        |
+| RecordType | 5     | 1      | Este 1 |
+| LastName   | 6     | 30     |  |
+| FirstName  | 36    | 30     |  |
+| Birthdate  | 66    | 10     | Data in format, ZZ-LL-AAAA |
+| Gender | 76     | 1      | Sexul: M – masculin; F – feminin. |
+| CR/LF  | 77     | 2      | Terminator linie |
 
 Inregistare de tip 2 (date legate de domiciliu)
 
-Camp	Pozitie	Nr. Caractere	Obs
-PersonID	1	4	
-RecordType	5	1	Este 2
-Street	6	30	
-City	36	30	
-Country	66	30	
-Phone	96	15	
-E-mail	111	30	
-CR/LF	141	2	Terminator linie
+
+| Camp | Pozitie | Nr. Caractere | Obs |
+| :--- | :---:   |    :---:      | ---:|
+| PersonID   | 1     | 4	    |        |
+| RecordType | 5     | 1      | Este 2 |
+| Street     | 6     | 30     |        |
+| City       | 36    | 30     |        | 
+| Country    | 66    | 10     |        |
+| Phone      | 96    | 15     |        |
+| E-mail     | 111   | 30     |        |
+| CR/LF      | 77    | 2      | Terminator linie |
 
 Inregistare de tip 3 (date legate de locul de munca)
 
-Camp	Pozitie	Nr. Caractere	Obs
-PersonID	1	4	
-RecordType	5	1	Este 3
-Company	6	30	
-Street	36	30	
-City	66	30	
-Country	96	30	
-Phone	126	15	
-Fax	141	15	
-E-mail	156	30	
-CR/LF	186	2	Terminator linie
+| Camp | Pozitie | Nr. Caractere | Obs |
+| :--- | :---:   |    :---:      | ---:|
+| PersonID   | 1     | 4	    |        |
+| RecordType | 5     | 1      | Este 2 |
+| Company    | 6     | 30     |        |
+| Street     | 36    | 30     |        |
+| City       | 66    | 30     |        | 
+| Country    | 96    | 30     |        |
+| Phone      | 126   | 15     |        |
+| Fax        | 141   | 15     |        |
+| E-mail     | 156   | 30     |        |
+| CR/LF      | 186   | 2      | Terminator linie |
 
 Nota: Campurile unei linii din fisierul de iesire sunt dispuse in coloane de lungime fixa si corespund cu campurile inregistrarii corespunzatoare din fisierul de intrare (dupa scructura descrisa in fisierul Person.h).
   </li>
@@ -61,5 +64,5 @@ Nota: Campurile unei linii din fisierul de iesire sunt dispuse in coloane de lun
 
 ### Construit în
 
-* [CPP](https://www.cplusplus.com/)
+* [C](https://www.cplusplus.com/)
 
