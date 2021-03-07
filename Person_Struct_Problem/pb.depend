@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1613940730 source:c:\users\unknown\desktop\pb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	"Person.h"
+
+1613939849 c:\users\unknown\desktop\pb\person.h
+
+1613936277 source:c:\users\unknown\desktop\pb\writeinput.c
+	<stdio.h>
+	"Person.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1613905464 c:\users\unknown\desktop\pb\writeinput.c
+	<stdio.h>
+	"Person.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
