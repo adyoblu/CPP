@@ -1,7 +1,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP)](https://github.com/adyoblu/CPP/issues)
 [![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP)](https://github.com/adyoblu/CPP/stargazers)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fadyoblu%2FCPP)
+[![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP?style=plastic)](https://github.com/adyoblu/CPP/issues)
 
 # CPP
   Acestea sunt problemele pe care le-am incarcat pe github dupa ce le-am rezolvat si acumulat experienta in c++.
