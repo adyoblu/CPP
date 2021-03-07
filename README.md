@@ -3,7 +3,7 @@
 <p>The above headers are made with <a href="https://shields.io/">Shields.io</li></p></a>
 
 # CPP
-  Acestea sunt problemele pe care le-am incarcat pe github dupa ce le-am rezolvat si acumulat experienta in c && c++.
+  These problems I loaded on github after I wrote and get experience in c && cpp.
   
 <!-- TABLE OF CONTENTS -->
 <details open="open">
