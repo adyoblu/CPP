@@ -61,6 +61,5 @@ Nota: Campurile unei linii din fisierul de iesire sunt dispuse in coloane de lun
 
 ### Construit în
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [CPP](https://www.cplusplus.com/)
 
