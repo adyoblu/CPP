@@ -1,6 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP?style=plastic)](https://github.com/adyoblu/CPP/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP?style=plastic)](https://github.com/adyoblu/CPP/issues)
-These headers are made with <a href="https://shields.io/">Shields.io</li>
+<p>These headers are made with <a href="https://shields.io/">Shields.io</li></p>
 
 # CPP
   Acestea sunt problemele pe care le-am incarcat pe github dupa ce le-am rezolvat si acumulat experienta in c && c++.
