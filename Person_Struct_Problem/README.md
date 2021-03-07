@@ -1,5 +1,6 @@
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub stars](https://img.shields.io/github/stars/adyoblu/CPP)](https://github.com/adyoblu/CPP/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/adyoblu/CPP)](https://github.com/adyoblu/CPP/network)
+[![GitHub issues](https://img.shields.io/github/issues/adyoblu/CPP)](https://github.com/adyoblu/CPP/issues)
 
 <!-- ABOUT THE PROJECT -->
 ## Despre proiect
@@ -8,11 +9,11 @@
   <summary>Descrierea problemei</summary>
   <ol>
     <li>
-*Va rugam sa realizati un program C (aplicatie C, in mod consola), care va citi dintr-un fisier de intrare  binar toate inregistarile si va genera un fisier de iesire de tip ASCII. 
-*Numele fisierelor de intrare si de iesire se vor citi din fisierul de configurare “testc.ini”, scris dupa formatul unui fisier de tip .ini. In acest fisier, in cadrul sectiunii “testc”; cheia, in cazul fisierului de intare, este “in”, iar in cazul celui de iesire este “out”. 
-*Fiecarei inregistari din fisierul de intrare ii va corespunde o linie in fisierul de iesire.
-*Structura inregistrarilor din fisierul de intrare este definita in fisierul “Person.h”.
-*Structura liniilor fisierului de iesire, in functie de tipul inregistrarii din fisierul de intrare, este urmatoarea:
+Va rugam sa realizati un program C (aplicatie C, in mod consola), care va citi dintr-un fisier de intrare  binar toate inregistarile si va genera un fisier de iesire de tip ASCII. </li>
+<li> Numele fisierelor de intrare si de iesire se vor citi din fisierul de configurare “testc.ini”, scris dupa formatul unui fisier de tip .ini. In acest fisier, in cadrul sectiunii “testc”; cheia, in cazul fisierului de intare, este “in”, iar in cazul celui de iesire este “out”. </li>
+<li> Fiecarei inregistari din fisierul de intrare ii va corespunde o linie in fisierul de iesire. </li>
+<li> Structura inregistrarilor din fisierul de intrare este definita in fisierul “Person.h”.</li>
+<li> Structura liniilor fisierului de iesire, in functie de tipul inregistrarii din fisierul de intrare, este urmatoarea:
 
 Inregistare de tip 1 (date personale)
 
@@ -55,9 +56,8 @@ Inregistare de tip 3 (date legate de locul de munca)
 | Fax        | 141   | 15     |        |
 | E-mail     | 156   | 30     |        |
 | CR/LF      | 186   | 2      | Terminator linie |
-
+</li>
 Nota: Campurile unei linii din fisierul de iesire sunt dispuse in coloane de lungime fixa si corespund cu campurile inregistrarii corespunzatoare din fisierul de intrare (dupa scructura descrisa in fisierul Person.h).
-  </li>
   </ol>
 </details>
 
