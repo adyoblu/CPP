@@ -12,7 +12,6 @@
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/!LeetCode">LeetCode problems</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/GeeksforGeeks">GeeksforGeeks problems</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/Hackerrank">Hackerrank problems</a></li>
-    <li> <a href="https://github.com/adyoblu/CPP/tree/master/Hackerrank">Hackerrank problems</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">A struct problem</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">Random numbers generated problems from</a> ---> Practice problems Page 109 ---> <a href="https://github.com/adyoblu/CPP/raw/master/allain_a_jumping_into_c.pdf">allain_a_jumping_into_c.pdf</a></li>
     <li> <a href="https://github.com/adyoblu/CPP/tree/master/Person_Struct_Problem">A struct problem</a></li>
