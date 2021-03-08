@@ -23,7 +23,7 @@
   </ol>
 </details>
 
-### This problem is build with
+### Those problems are build with
 
 * [CPP && C](https://www.cplusplus.com/)
 
